@@ -1,0 +1,8 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Java/Declaration/Generate overloaded method with default parameter values" />
+    <ignoreAction name="XML/Convert text to CData" />
+    <ignoreAction name="Java/Declaration/Split declaration" />
+    <ignoreAction name="XML/Rearrange tag attributes" />
+  </component>
+</application>
