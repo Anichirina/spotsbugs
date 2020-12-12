@@ -4,5 +4,6 @@
     <ignoreAction name="XML/Convert text to CData" />
     <ignoreAction name="Java/Declaration/Split declaration" />
     <ignoreAction name="XML/Rearrange tag attributes" />
+    <ignoreAction name="Java/Refactorings/Introduce local variable" />
   </component>
 </application>
