@@ -10,5 +10,6 @@
     <ignoreAction name="Java/Modifiers/Change access modifier" />
     <ignoreAction name="Java/Numbers/Convert number" />
     <ignoreAction name="Java/Control Flow/Invert 'if' condition" />
+    <ignoreAction name="Java/Declaration/Generate missed test methods" />
   </component>
 </application>
