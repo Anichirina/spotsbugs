@@ -9,5 +9,6 @@
     <ignoreAction name="Java/Control Flow/Move up into 'if' statement branches" />
     <ignoreAction name="Java/Modifiers/Change access modifier" />
     <ignoreAction name="Java/Numbers/Convert number" />
+    <ignoreAction name="Java/Control Flow/Invert 'if' condition" />
   </component>
 </application>
