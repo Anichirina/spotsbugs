@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/Anichirina/Radioman" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Anichirina/Radio" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\1\Downloads" />
