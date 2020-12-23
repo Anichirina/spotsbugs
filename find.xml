@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Radio\src\main\java\ru\netology\domain\Radio1.java [Radio]'" />
-    <option name="defaultScopeName" value="File '...\Radio\src\main\java\ru\netology\domain\Radio1.java [Radio]'" />
-    <option name="SEARCH_SCOPE" value="File '...\Radio\src\main\java\ru\netology\domain\Radio1.java [Radio]'" />
+    <option name="customScope" value="File '...\src\main\java\ru\netology\domain\Radio.java'" />
+    <option name="defaultScopeName" value="File '...\src\main\java\ru\netology\domain\Radio.java'" />
+    <option name="SEARCH_SCOPE" value="File '...\src\main\java\ru\netology\domain\Radio.java'" />
   </component>
 </application>

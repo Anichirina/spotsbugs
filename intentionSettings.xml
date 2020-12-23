@@ -11,5 +11,6 @@
     <ignoreAction name="Java/Numbers/Convert number" />
     <ignoreAction name="Java/Control Flow/Invert 'if' condition" />
     <ignoreAction name="Java/Declaration/Generate missed test methods" />
+    <ignoreAction name="Java/Declaration/Move initializer to constructor" />
   </component>
 </application>
