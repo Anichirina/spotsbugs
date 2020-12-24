@@ -2,6 +2,8 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="Menedger" type="CLASS" />
+      <mapping ext="menedger" type="CLASS" />
+      <mapping ext="manadger" type="JAVA" />
       <mapping ext="domain" type="JAVA" />
       <mapping pattern="MenedgerVK" type="MavenConfig" />
       <mapping ext="exec" type="PLAIN_TEXT" />
