@@ -1,13 +1,17 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="Menedger" type="CLASS" />
       <mapping ext="menedger" type="CLASS" />
       <mapping pattern="manadger" type="JAVA" />
       <mapping ext="manadger" type="JAVA" />
       <mapping ext="domain" type="JAVA" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="MenedgerVK" type="MavenConfig" />
       <mapping ext="exec" type="PLAIN_TEXT" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
   </component>
 </application>
