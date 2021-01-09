@@ -12,5 +12,6 @@
     <ignoreAction name="Java/Control Flow/Invert 'if' condition" />
     <ignoreAction name="Java/Declaration/Generate missed test methods" />
     <ignoreAction name="Java/Declaration/Move initializer to constructor" />
+    <ignoreAction name="Java/Boolean/Flip comparison" />
   </component>
 </application>
