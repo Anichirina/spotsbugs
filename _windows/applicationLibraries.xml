@@ -1,0 +1,11 @@
+<application>
+  <component name="libraryTable">
+    <library name="billboard">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Downloads/billboard" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</application>
