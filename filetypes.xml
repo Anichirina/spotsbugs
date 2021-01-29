@@ -4,7 +4,9 @@
       <mapping pattern="Menedger" type="CLASS" />
       <mapping pattern="MenedgerCart" type="CLASS" />
       <mapping ext="menedger" type="CLASS" />
+      <mapping pattern="CartManagerTestNonEmpty" type="JAVA" />
       <mapping pattern="manadger" type="JAVA" />
+      <mapping pattern="ru.netology.manadger.CartManagerTestNonEmpty" type="JAVA" />
       <mapping ext="manadger" type="JAVA" />
       <mapping ext="domain" type="JAVA" />
       <mapping ext="gradle.kts" type="Kotlin" />

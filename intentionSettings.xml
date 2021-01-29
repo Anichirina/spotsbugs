@@ -13,5 +13,6 @@
     <ignoreAction name="Java/Declaration/Generate missed test methods" />
     <ignoreAction name="Java/Declaration/Move initializer to constructor" />
     <ignoreAction name="Java/Boolean/Flip comparison" />
+    <ignoreAction name="XML/Remove tag" />
   </component>
 </application>
