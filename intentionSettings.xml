@@ -15,5 +15,6 @@
     <ignoreAction name="Java/Boolean/Flip comparison" />
     <ignoreAction name="XML/Remove tag" />
     <ignoreAction name="Lombok/Replace explicit type with 'val' (Lombok)" />
+    <ignoreAction name="Lombok/Replace with annotations (Lombok)" />
   </component>
 </application>
